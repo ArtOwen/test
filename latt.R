@@ -1,4 +1,4 @@
-latt = function(n0=244,n1=552){
+latt = function(n0=8,n1=13){
 # Make a two d lattice
 
 x1 = 0:(n1-1)
